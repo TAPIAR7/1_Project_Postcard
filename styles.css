@@ -1,0 +1,21 @@
+
+h1 {display: block; font-family: 'Handlee', cursive; background-color: white; margin: 0; }
+p, input {display: block; font-family: 'Handlee', cursive;}
+body            {background: white;}
+img             {display: block; margin-left: auto;margin-right: auto; height: 50px;padding-right: 80px;}
+.postcard       {width: 500px; height: 600px;}
+.encabezado     {background: white; height: 100px; background-color:white;}
+.cuerpo      {background: red; height: 170px;}
+.piePagina      {background: white; height: 100px; }
+.submmitBTN {display: block; margin: 0 auto; font-size: 15px; background-color: rgb(173, 173, 173);}
+.tituloPostcard       {display: flex; align-items: center; background: white; float: left; width: 50%; height: 100px;}
+.logo           {display: block; float: right; background-color:white; margin: 20px;}
+  /* height: 150px; width: 50px; background: white; */
+.form           {height: 170px; width: 50%; background:white; float: right;}
+.descripcion    {height: 170px; width: 50%; background:white; float: left;}
+.inputBox       {display: inline;}
+.iconStyle      {display: inline;}
+
+.elementosEntrada { border-bottom: 1px solid gray; margin: 10px 20px; width: 140px;}
+input {border: none; }
+/* border-top: inherit; border-left: inherit; border-right: inherit; border-bottom: thin; border-style: solid; padding-top: 5px; padding-bottom: 5px; */
